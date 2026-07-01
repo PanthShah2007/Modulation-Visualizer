@@ -10,7 +10,7 @@ Instead of relying only on textbook diagrams, this application allows users to e
 
 # 🌐 Live Demo
 
-🔗 **Website:** https://panthshah2007.github.io/Virtual-Lab/
+🔗 **Website:** https://panthshah2007.github.io/Modulation-Visualizer/
 
 ---
 
